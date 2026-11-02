@@ -1,0 +1,10 @@
+# Currency code, USD value of one unit
+# Demo rates only. Replace with current rates before real use.
+USD,1
+EUR,1.08
+GBP,1.27
+INR,0.012
+JPY,0.0067
+VND,0.000041
+AUD,0.66
+CAD,0.74
